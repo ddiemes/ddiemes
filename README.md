@@ -69,7 +69,7 @@ NYC Traffic Accidents Dashboard, developed using data from NYC Open Data (Jan/20
 - Data visualization best practices applied to highlight patterns and critical risk zones  
 
 
-
+---
 
 
 ### [**Analysis of Aeronautical Occurrences (2007 - 2022) - CENIPA**](https://app.powerbi.com/view?r=eyJrIjoiODUzYWEzMWEtMjUxMS00OTYwLTlhZTItYzUzN2QyNWY3NDZjIiwidCI6IjEyYmRlMWE1LWIwNDYtNDc5Yi1hNjM1LTk2MWVhMmI1YzA3OSJ9)
@@ -101,7 +101,7 @@ Brazilian Civil Aviation Occurrences Dashboard, developed using public data from
 - Application of data visualization best practices to highlight risk patterns and high-impact areas
 
 
-
+---
 
 
 ### [**Performance Analysis - Chicago Bulls 1990s**](https://app.powerbi.com/view?r=eyJrIjoiMzI2ODM0MjUtNGE3NC00N2MyLWEyYTUtOWIzNTgzNTVlNmQ0IiwidCI6IjEyYmRlMWE1LWIwNDYtNDc5Yi1hNjM1LTk2MWVhMmI1YzA3OSJ9)
@@ -133,7 +133,7 @@ Chicago Bulls Golden Era Performance Dashboard, developed using MySQL queries in
 - Application of data visualization best practices to highlight efficiency, contribution and season-over-season trends
 
 
-
+---
 
 
 ### [**Netflix Analysis**](https://app.powerbi.com/view?r=eyJrIjoiN2Y0YWU0NGYtZjJkNy00YzFiLTk1MDItZjMwZjg2ZjJkMTc3IiwidCI6IjEyYmRlMWE1LWIwNDYtNDc5Yi1hNjM1LTk2MWVhMmI1YzA3OSJ9)
