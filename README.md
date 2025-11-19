@@ -1,10 +1,11 @@
-## Hi There 👋
+## - About Me
 
-I'm a Data Analyst with 4+ years of experience in data analysis, automation, and business intelligence. 
-Currently focused on **data pipelines**, **Big Data**, and **automation with Python**.
+I am a Data professional with experience in Power BI, SQL, ETL, Python, data modeling and automation, building solutions that range from end-to-end pipelines to predictive analyses and executive dashboards. 
+I work daily with data engineering, data analysis, and system integration, always aiming for efficiency, clean structure, and real business impact.
+I am currently pursuing a degree in Information Systems and have completed the Santander Coders program (Ada Tech), where I improved my knowledge in programming, Git, APIs, and best practices in software development.
 
 
-## 🛠️ Tech Stack
+## - Tech Stack
 
 ### • Analytics & BI
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black)
@@ -26,7 +27,7 @@ Currently focused on **data pipelines**, **Big Data**, and **automation with Pyt
 
 
 
-## 📫 Contact
+## - Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donatandiemeschaves-power-bi/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:donatandiemessc@gmail.com)
@@ -37,7 +38,7 @@ Currently focused on **data pipelines**, **Big Data**, and **automation with Pyt
 
 
 
-## 🚀 Power BI Projects
+## - Power BI Projects
 
 ### [**Analysis of Traffic Accidents in New York City (Jan.2021 - Apr.2023)**](https://app.powerbi.com/view?r=eyJrIjoiNzczMzJmYmItMjU3My00Nzk3LTllMjAtMjk4MDRmNTNiZWRlIiwidCI6IjEyYmRlMWE1LWIwNDYtNDc5Yi1hNjM1LTk2MWVhMmI1YzA3OSJ9)
 
