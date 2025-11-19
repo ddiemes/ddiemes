@@ -7,10 +7,24 @@ Currently focused on **data pipelines**, **Big Data**, and **automation with Pyt
 
 ## 🛠️ Tech Stack
 
-- **Analytics / BI**: Power BI, Excel, SQL, Power Query, Figma
-- **Linguagens**: Python, SQL, M LAnguage 
-- **Cloud / Big Data**: Databricks(concepts), Spark(concepts), GCP(concepts)
-- **Ferramentas de automação**: (ex: Airflow, Prefect — se usar)  
+## Tech Stack
+
+### • Analytics & BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### • Languages
+![PostgreSQL](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+
+### • Cloud & Big Data
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+ 
 
 ---
 
