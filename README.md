@@ -1,13 +1,10 @@
-## Hi there 👋
+## Hi There 👋
 
 I'm a Data Analyst with 4+ years of experience in data analysis, automation, and business intelligence. 
 Currently focused on **data pipelines**, **Big Data**, and **automation with Python**.
 
 
----
-
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### • Analytics & BI
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black)
@@ -26,10 +23,10 @@ Currently focused on **data pipelines**, **Big Data**, and **automation with Pyt
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)(Concepts)
 
 
----
 
 
-## Contact
+
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donatandiemeschaves-power-bi/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:donatandiemessc@gmail.com)
@@ -37,10 +34,10 @@ Currently focused on **data pipelines**, **Big Data**, and **automation with Pyt
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=flat&logo=internet-explorer&logoColor=white)](https://app.xperiun.com//in/diemes)
 
 
----
 
 
-## Power BI Projects
+
+## 🚀 Power BI Projects
 
 ### [**Analysis of Traffic Accidents in New York City (Jan.2021 - Apr.2023)**](https://app.powerbi.com/view?r=eyJrIjoiNzczMzJmYmItMjU3My00Nzk3LTllMjAtMjk4MDRmNTNiZWRlIiwidCI6IjEyYmRlMWE1LWIwNDYtNDc5Yi1hNjM1LTk2MWVhMmI1YzA3OSJ9)
 
@@ -72,7 +69,7 @@ NYC Traffic Accidents Dashboard, developed using data from NYC Open Data (Jan/20
 - Data visualization best practices applied to highlight patterns and critical risk zones  
 
 
----
+
 
 
 ### [**Analysis of Aeronautical Occurrences (2007 - 2022) - CENIPA**](https://app.powerbi.com/view?r=eyJrIjoiODUzYWEzMWEtMjUxMS00OTYwLTlhZTItYzUzN2QyNWY3NDZjIiwidCI6IjEyYmRlMWE1LWIwNDYtNDc5Yi1hNjM1LTk2MWVhMmI1YzA3OSJ9)
@@ -104,7 +101,7 @@ Brazilian Civil Aviation Occurrences Dashboard, developed using public data from
 - Application of data visualization best practices to highlight risk patterns and high-impact areas
 
 
----
+
 
 
 ### [**Performance Analysis - Chicago Bulls 1990s**](https://app.powerbi.com/view?r=eyJrIjoiMzI2ODM0MjUtNGE3NC00N2MyLWEyYTUtOWIzNTgzNTVlNmQ0IiwidCI6IjEyYmRlMWE1LWIwNDYtNDc5Yi1hNjM1LTk2MWVhMmI1YzA3OSJ9)
@@ -136,7 +133,7 @@ Chicago Bulls Golden Era Performance Dashboard, developed using MySQL queries in
 - Application of data visualization best practices to highlight efficiency, contribution and season-over-season trends
 
 
----
+
 
 
 ### [**Netflix Analysis**](https://app.powerbi.com/view?r=eyJrIjoiN2Y0YWU0NGYtZjJkNy00YzFiLTk1MDItZjMwZjg2ZjJkMTc3IiwidCI6IjEyYmRlMWE1LWIwNDYtNDc5Yi1hNjM1LTk2MWVhMmI1YzA3OSJ9)
